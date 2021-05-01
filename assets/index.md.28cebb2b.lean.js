@@ -1,0 +1,1 @@
+import{o as e,c as a,a as r}from"./app.39688393.js";const t='{"title":"seazones","description":"","frontmatter":{},"headers":[{"level":2,"title":"hello","slug":"hello"}],"relativePath":"index.md","lastUpdated":1619452982461}',o={},l=r('',3);o.render=function(r,t,o,h,n,s){return e(),a("div",null,[l])};export default o;export{t as __pageData};
